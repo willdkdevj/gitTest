@@ -1,3 +1,10 @@
+// Para configurar o Git após instalação
+git config --global user.name "nome_usuario"
+
+// Para configurar o e-mail para contato do usuário
+git config --global user.email "e-mail_usuario"
+
+
 'git init' - // inicia a linha do tempo (no diretório apontado)
 'git add' // adiciona ou atualiza mudanças para irem para a linha do tempo
 'git commit' // adiciona umm ponto na linha do tempo (Salva alterações nos arquivos)
