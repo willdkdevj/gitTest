@@ -21,3 +21,5 @@ git config --global user.email "e-mail_usuario"
 'git push' // permite enviar o repositório git local para o github  
 'git clone' // permite baixar um projeto do github para o diretório local (espelhando)
 'git pull' // permite atualizar o projeto baixado no github realizado pelo time na nuvem
+
+Teste de criação de área de teste (Branch)
